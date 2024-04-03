@@ -1,3 +1,9 @@
 [submodule "tubes/Tubes1_SanssKuy"]
 	path = tubes/Tubes1_SanssKuy
 	url = https://github.com/NoHaitch/Tubes1_SanssKuy
+[submodule "tucil/Tucil1_13522091"]
+	path = tucil/Tucil1_13522091
+	url = https://github.com/NoHaitch/Tucil1_13522091
+[submodule "tucil/Tucil2_13522078_13522091"]
+	path = tucil/Tucil2_13522078_13522091
+	url = https://github.com/NoHaitch/Tucil2_13522078_13522091
