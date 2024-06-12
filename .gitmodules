@@ -7,3 +7,6 @@
 [submodule "tucil/Tucil2_13522078_13522091"]
 	path = tucil/Tucil2_13522078_13522091
 	url = https://github.com/NoHaitch/Tucil2_13522078_13522091
+[submodule "tucil/Tucil3_13522091"]
+	path = tucil/Tucil3_13522091
+	url = https://github.com/NoHaitch/Tucil3_13522091
