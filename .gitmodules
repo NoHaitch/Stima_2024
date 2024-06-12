@@ -13,3 +13,9 @@
 [submodule "Shape-Side-Matching-for-rectangular-shape-origin"]
 	path = Shape-Side-Matching-for-rectangular-shape-origin
 	url = https://github.com/NoHaitch/Shape-Side-Matching-for-rectangular-shape-origin
+[submodule "tubes/Tubes2_FE_Chibye"]
+	path = tubes/Tubes2_FE_Chibye
+	url = https://github.com/NoHaitch/Tubes2_FE_Chibye
+[submodule "tubes/Tubes3_Kunjat-Gadab"]
+	path = tubes/Tubes3_Kunjat-Gadab
+	url = https://github.com/NoHaitch/Tubes3_Kunjat-Gadab
