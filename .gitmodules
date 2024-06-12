@@ -10,3 +10,6 @@
 [submodule "tucil/Tucil3_13522091"]
 	path = tucil/Tucil3_13522091
 	url = https://github.com/NoHaitch/Tucil3_13522091
+[submodule "Shape-Side-Matching-for-rectangular-shape-origin"]
+	path = Shape-Side-Matching-for-rectangular-shape-origin
+	url = https://github.com/NoHaitch/Shape-Side-Matching-for-rectangular-shape-origin
